@@ -8,7 +8,7 @@ import Search from "./Components/Search";
 import SingleList from "./Components/SingleList";
 import Main from "./Components/Main";
 import { useState } from "react";
-import { UseMovies } from "./Hooks/UseMovies.jsx";
+import { UseMovies } from "./Hooks/useMovies.jsx";
 
 export default function App() {
   // States
